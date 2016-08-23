@@ -69,6 +69,13 @@
 	.footer-copyright, .footer-social { text-align: center; }
 	.footer-social a { margin: 0 5px; }
 
+	nav{
+		margin-bottom: 350px;
+	}
+	.slider-2-container{
+		height: 250px;
+	}
+
 }
 
 @media (max-width: 480px) { 
